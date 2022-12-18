@@ -1,0 +1,33 @@
+#nav_menu_bar {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    column-gap: 100px;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    justify-content: center;
+}
+
+nav a{
+    width: 200px;
+    font-size: larger;
+    color: rgb(195, 195, 195);
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+}
+
+header img{
+    width:50px;
+    height:auto;
+}
+
+/*Main body items*/
+
+#about_me img {
+    width: 200px;
+    height: auto;
+}
